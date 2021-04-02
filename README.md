@@ -11,7 +11,7 @@ Test: The script was written with table and data creation before de select state
 
 Results: 
 
-1 - Fields Name, Grade and Value;\n
+1 - Fields Name, Grade and Value;
 2 - Descending order by grade;
 3 - If there are more than one student with the same grade (8-10) assigned to them, sort those students in particular by their names in alphabetical order;
 4 - If the grade is less than 8, use "NULL" as the name and list them in grades in descending order.
